@@ -5,12 +5,13 @@ st.write(
     "anjay ganteng banget gw"
 )
 st.image("IMG_20250415_074235.jpg") 
+st.write("Maskot kami") 
 
-st. title("togel")
-st. header("Nomor togel")
+st. title("SLOT TOGEL")
+st. header("Pilih nomor")
 angka = st.number_input("jackpot:", value=0, step=1)
 
 if (angka % 2) == 0:
-  st.write(f"{angka} zonk")
+  st.write(f"{angka} ZONK")
 else:
-  st.write(f"{angka} jackpot")
+  st.write(f"{angka} Jackpot langsung WD")
