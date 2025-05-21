@@ -5,7 +5,7 @@ st.write(
     "anjay ganteng banget gw"
 )
 st.image("IMG_20250415_074235.jpg") 
-st.write("Maskot kami") 
+st.write("Musang di atas Maskot kami") 
 
 st. title("SLOT TOGEL")
 st. header("Pilih nomor")
