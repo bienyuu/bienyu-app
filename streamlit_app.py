@@ -1,16 +1,16 @@
 import streamlit as st
 
-st.title("🎈warpol-no-1-pasti-gacor")
+st.title("🎈warpol no 1 pasti gacor")
 st.write(
-    "anjay-ganteng-banget-gw"
+    "anjay ganteng banget gw"
 )
 st.image("IMG_20250415_074235.jpg") 
 
-st. title("aplikasi sederhana")
-st. header("aplikasi mengecek nilai genap/ganjil")
-angka = st.number_input("Tulis sebuah Angka:", value=0, step=1)
+st. title("togel")
+st. header("Nomor togel")
+angka = st.number_input("jackpot:", value=0, step=1)
 
 if (angka % 2) == 0:
-  st.write(f"{angka} adalah Bilangan Genap")
+  st.write(f"{angka} zonk")
 else:
-  st.write(f"{angka} adalah Bilangan Ganjil")
+  st.write(f"{angka} jackpot")
